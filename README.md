@@ -10,3 +10,5 @@ Making edits inside my computer RStudio window. Will committ to GitHub online.
 
 Now I'm on a seperate branch. I'll have to commit and then push my edits, 
 otherwise the master branch is unchanged. 
+
+Now I'm editing on GitHub, and then I'll push it to RStudio. 
