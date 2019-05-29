@@ -2,7 +2,9 @@
 test repository week 1
 
 Hello everyone! 
-Happy Wednesday, and may the odds be ever in your favor. 
+This is a test repository to make sure GitHub and RStudio are compatible and everything is transfering accurately. 
+Looks good, so that's amazing. 
+It also includes some helpful reminders about push vs pull and branches. 
 
 This is another test edit, this time creating a branch on the fly. 
 
