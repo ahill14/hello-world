@@ -13,3 +13,4 @@ otherwise the master branch is unchanged.
 
 Now I'm editing on GitHub, and then I'll push it to RStudio 
 (with a push request). 
+Jk it's not a request when you push you just push it and it goes. 
